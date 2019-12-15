@@ -1,9 +1,11 @@
+/** Style titres **/
 h1
 {
     color: red;
     font-size: 0.8em;
 }
 
+/** Style paragraphes **/
 p
 {
     color: green;
